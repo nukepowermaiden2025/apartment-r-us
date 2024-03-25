@@ -1,0 +1,14 @@
+INSERT into beta_test.community (name) values('Tolly Bay');
+INSERT into beta_test.community (name) values('Rover Square Garden');
+INSERT into beta_test.community (name) values('Knoweles Alley');
+INSERT into beta_test.community (name) values('Foxtrot Grove');
+INSERT into beta_test.community (name) values('Boulder Stagg Farm');
+INSERT into beta_test.community (name) values('Russell Cove Estates');
+INSERT into beta_test.community (name) values('Bright Barn Burrow');
+INSERT into beta_test.community (name) values('Holly Hills Coventry');
+INSERT into beta_test.community (name) values('Estes Fort');
+INSERT into beta_test.community (name) values('Merrick Park Views');
+INSERT into beta_test.community (name) values('Inland Train Co');
+INSERT into beta_test.community (name) values('Johnson Schoolhouse Manner');
+INSERT into beta_test.community (name) values('Old Fossil Horn Sanctuary');
+INSERT into beta_test.community (name) values('Golden Flower Lofts');
