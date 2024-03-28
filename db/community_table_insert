@@ -1,14 +1,29 @@
-INSERT into beta_test.community (name) values('Tolly Bay');
-INSERT into beta_test.community (name) values('Rover Square Garden');
-INSERT into beta_test.community (name) values('Knoweles Alley');
-INSERT into beta_test.community (name) values('Foxtrot Grove');
-INSERT into beta_test.community (name) values('Boulder Stagg Farm');
-INSERT into beta_test.community (name) values('Russell Cove Estates');
-INSERT into beta_test.community (name) values('Bright Barn Burrow');
-INSERT into beta_test.community (name) values('Holly Hills Coventry');
-INSERT into beta_test.community (name) values('Estes Fort');
-INSERT into beta_test.community (name) values('Merrick Park Views');
-INSERT into beta_test.community (name) values('Inland Train Co');
-INSERT into beta_test.community (name) values('Johnson Schoolhouse Manner');
-INSERT into beta_test.community (name) values('Old Fossil Horn Sanctuary');
-INSERT into beta_test.community (name) values('Golden Flower Lofts');
+INSERT into beta_test.community (id, name) values('17b60582-eac5-11ee-b432-0242ac110002','Tolly Bay');
+INSERT into beta_test.community (id, name) values('1fe73f10-eac5-11ee-b432-0242ac110002','Rover Square Garden');
+INSERT into beta_test.community (id, name) values('210aeec1-eac5-11ee-b432-0242ac110002','Knoweles Alley');
+INSERT into beta_test.community (id, name) values('224a59af-eac5-11ee-b432-0242ac110002','Foxtrot Grove');
+INSERT into beta_test.community (id, name) values('23751c97-eac5-11ee-b432-0242ac110002','Boulder Stagg Farm');
+INSERT into beta_test.community (id, name) values('249fcd72-eac5-11ee-b432-0242ac110002','Russell Cove Estates');
+INSERT into beta_test.community (id, name) values('25e5dfda-eac5-11ee-b432-0242ac110002','Bright Barn Burrow');
+INSERT into beta_test.community (id, name) values('27179754-eac5-11ee-b432-0242ac110002','Holly Hills Coventry');
+INSERT into beta_test.community (id, name) values('28329734-eac5-11ee-b432-0242ac110002','Estes Fort');
+INSERT into beta_test.community (id, name) values('290b1ffa-eac5-11ee-b432-0242ac110002','Merrick Park Views');
+INSERT into beta_test.community (id, name) values('29e6c13f-eac5-11ee-b432-0242ac110002','Inland Train Co');
+INSERT into beta_test.community (id, name) values('2a831a2c-eac5-11ee-b432-0242ac110002','Johnson Schoolhouse Manner');
+INSERT into beta_test.community (id, name) values('2b0a95f8-eac5-11ee-b432-0242ac110002','Old Fossil Horn Sanctuary');
+INSERT into beta_test.community (id, name) values('fa889a82-eac3-11ee-b432-0242ac110002','Golden Flower Lofts');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

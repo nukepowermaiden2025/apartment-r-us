@@ -8,9 +8,14 @@
 # Create a network so the DB can attach as well 
 docker network create apartment-db-network
 
+docker build -t node-20-alpine:v1 .
+
 docker run \
+-d \
 -p 3000:3000  \
 -v /Users/kourtneyreynolds/repos/apartment-r-us/:/app \
 --name apartments-service \
 --network apartment-db-network \
 node-20-alpine:v1
+
+docker network connect --alias mysql_db apartment-db-network mysql
