@@ -6,6 +6,5 @@ DOCKER NOTES
 
 # create a docker file that let you run this app in a container on the lowest level
 
+# Do this in order
 
-# MySQL Docker container
- 
